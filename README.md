@@ -1,2 +1,5 @@
-# Bug-Tracking-System
-A basic bug tracking system with 3 types of user i.e. Admin, QA and Developer
+# Bug-Tracker
+A Bug Tracker having 3 types of users: (i) Admin (ii) Developer (iii) Quality Assurance (QA)
+tester using PHP, HTML, CSS, JavaScript, MySQL where Admin can check users, delete the post, QA
+tester can create the post of bug, add comments on it, Developer can change the status (Open, Work In
+Progress, Closed) accordingly.
